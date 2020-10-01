@@ -1,2 +1,2 @@
-# Hacktoberfest_FirstTimers
-Fork and Do PR
+# calculator
+Simple Calculator for Android API Level 23
